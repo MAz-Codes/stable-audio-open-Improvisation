@@ -1,4 +1,4 @@
-# Fragment Generation Tool Documentation
+# Fragment Generation for Live Improvisation
 
 ## Overview
 
@@ -24,6 +24,7 @@ Built on Stable Audio Open and stable-audio-tools, This tool generates audio fra
 ### Install Dependencies
 ```bash
 pip install torch torchaudio gradio einops
+pip install soundfile librosa
 pip install stable-audio-tools
 ```
 
